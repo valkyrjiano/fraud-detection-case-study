@@ -1,14 +1,12 @@
 # Fraud Risk Analysis: Merchants, Users and Chargebacks
 
-📊 Data-driven insights to strengthen fraud prevention strategies
-
 ## 🔎 Objetivo
 Analisar dados de transações para identificar padrões de fraude, entender o comportamento de usuários e merchants, e propor uma estratégia de prevenção baseada em dados.
 
 ## 📂 Estrutura
 - `notebooks/` → Jupyter notebooks com exploração dos dados
 - `report/` → Relatório final em PDF
-- `data/` → (opcional) dataset ou versão simulada
+- `data/` → dataset 
 
 ## 🚀 Principais Descobertas
 - 80% das fraudes acontecem no fim do dia (fraude segue volume).
